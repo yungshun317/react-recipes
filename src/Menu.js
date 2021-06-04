@@ -1,6 +1,7 @@
 import React from "react";
 
 import Recipe from "./Recipe";
+import "./Menu.css";
 
 export default function Menu({ recipes = [] }) {
 	return (
